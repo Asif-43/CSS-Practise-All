@@ -1,0 +1,121 @@
+
+
+.MyDiv{
+    height: 100px;
+    width: 80px;
+    color: rgb(228, 17, 17);
+    background-color: blueviolet;
+
+}
+
+i{
+    border-style: double;
+    color: brown;
+}
+
+*{
+    color: goldenrod;
+    font-size: 60px;
+    font-style: oblique;
+}
+h1{
+    color: blue;
+    font-size:50px;
+    font-style: italic;
+}
+
+.mytext{
+    color: rgb(14, 224, 45);
+    font-size:50px;
+    font-style: initial;
+}
+
+#mycss{
+    color: goldenrod;
+    font-size: 60px;
+    font-style: oblique;
+}
+
+p,u{
+    color: rgb(222, 6, 193);
+    font-size: 60px;
+    font-style: oblique;
+}
+#x{
+    display:table;
+}
+img{
+    float: initial;
+}
+
+#y{
+    font-size: 50px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-variant-ligatures: contextual;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: brown;
+}
+
+.btn{
+    background-color: aqua;
+    border-radius: 10px;
+    color: blueviolet;
+    padding: 30px;
+}
+.btn:hover{
+    background-color: rgb(25, 163, 87);
+}
+
+.btn1{
+    background-color: aqua !important;
+    border-radius: 10px;
+    color: blueviolet;
+    padding: 30px;
+}
+.btn1{
+    background-color: rgb(18, 206, 15);
+    border-radius: 10px;
+    color: rgb(182, 17, 188);
+    padding: 30px;
+}
+
+#lh{
+    line-height: 100%;
+    list-style-type: armenian;
+}
+
+#el{
+    margin: 20px;
+}
+
+#btn2{
+    margin: 50px;
+    padding: 40px;
+    color: rgb(18, 84, 143);
+}
+
+#img{
+    height: 200px;
+    width: 160px;
+    filter: brightness(50%);
+    filter: blur(1px);
+    filter: saturate(2);
+    filter: contrast(2);
+    filter: sepia(-15);
+}
+
+#of{
+    height: 300px;
+    width: 500px;
+    overflow: auto;
+}
+
+.pos{
+    position: fixed;
+    color: black;
+    top: 10px;
+    left: 100px;
+}
+
